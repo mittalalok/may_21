@@ -10,8 +10,7 @@
         <script><![CDATA[var si2 = Class.create();
 si2.prototype = {
     initialize: function() {
-		//abet tuter
-		//fsfsdffd
+		//up1 
     },
 
     type: 'si2'
@@ -20,13 +19,13 @@ si2.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-21 10:21:26</sys_created_on>
         <sys_id>3b424b61732d33001c233096fbf6a7a9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>si2</sys_name>
         <sys_package display_value="may_21" source="sn_may_21">a6d08b6173a933001c233096fbf6a765</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="may_21">a6d08b6173a933001c233096fbf6a765</sys_scope>
         <sys_update_name>sys_script_include_3b424b61732d33001c233096fbf6a7a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-22 06:23:06</sys_updated_on>
+        <sys_updated_on>2019-05-22 09:03:14</sys_updated_on>
     </sys_script_include>
 </record_update>
